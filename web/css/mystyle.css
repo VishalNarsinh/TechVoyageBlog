@@ -1,0 +1,26 @@
+.primary-background{
+    background: #9768D9;
+}
+.text-primary{
+    color:#9768D9;
+}
+
+/*custom button*/ 
+.btn-custom {
+    color: #fff;
+    background-color: #9768D9;
+    border-color: #9768D9;
+}
+
+.btn-custom:hover {
+    color: #773141;
+    background-color: #BFB9FA;
+    border-color: #BFB9FA;
+}
+
+.box{
+    box-shadow:
+        inset 0 -3em 3em rgba(0, 0, 0, 0.1),
+        0 0 0 2px rgb(255, 255, 255),
+        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
